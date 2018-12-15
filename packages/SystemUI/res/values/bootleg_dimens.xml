@@ -45,7 +45,7 @@
     <dimen name="horizontal_max_swift">3.0dp</dimen>
     <dimen name="vertical_max_swift">1.0dp</dimen>
 
-    <dimen name="current_weather_image_size">42dp</dimen>
+    <dimen name="current_weather_image_size">30dp</dimen>
 
     <!-- Weather condition icon  -->
     <dimen name="weather_icon_size">24dp</dimen>
